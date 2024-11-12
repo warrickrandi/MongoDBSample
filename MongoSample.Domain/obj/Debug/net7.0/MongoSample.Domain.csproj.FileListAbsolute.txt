@@ -1,0 +1,12 @@
+C:\Randika\Playground\Other\MongoSample\MongoSample.Domain\bin\Debug\net7.0\MongoSample.Domain.deps.json
+C:\Randika\Playground\Other\MongoSample\MongoSample.Domain\bin\Debug\net7.0\MongoSample.Domain.dll
+C:\Randika\Playground\Other\MongoSample\MongoSample.Domain\bin\Debug\net7.0\MongoSample.Domain.pdb
+C:\Randika\Playground\Other\MongoSample\MongoSample.Domain\obj\Debug\net7.0\MongoSample.Domain.csproj.AssemblyReference.cache
+C:\Randika\Playground\Other\MongoSample\MongoSample.Domain\obj\Debug\net7.0\MongoSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Randika\Playground\Other\MongoSample\MongoSample.Domain\obj\Debug\net7.0\MongoSample.Domain.AssemblyInfoInputs.cache
+C:\Randika\Playground\Other\MongoSample\MongoSample.Domain\obj\Debug\net7.0\MongoSample.Domain.AssemblyInfo.cs
+C:\Randika\Playground\Other\MongoSample\MongoSample.Domain\obj\Debug\net7.0\MongoSample.Domain.csproj.CoreCompileInputs.cache
+C:\Randika\Playground\Other\MongoSample\MongoSample.Domain\obj\Debug\net7.0\MongoSample.Domain.dll
+C:\Randika\Playground\Other\MongoSample\MongoSample.Domain\obj\Debug\net7.0\refint\MongoSample.Domain.dll
+C:\Randika\Playground\Other\MongoSample\MongoSample.Domain\obj\Debug\net7.0\MongoSample.Domain.pdb
+C:\Randika\Playground\Other\MongoSample\MongoSample.Domain\obj\Debug\net7.0\ref\MongoSample.Domain.dll

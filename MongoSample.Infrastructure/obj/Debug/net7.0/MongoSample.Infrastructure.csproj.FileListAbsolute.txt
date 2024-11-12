@@ -1,0 +1,15 @@
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\bin\Debug\net7.0\MongoSample.Infrastructure.deps.json
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\bin\Debug\net7.0\MongoSample.Infrastructure.dll
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\bin\Debug\net7.0\MongoSample.Infrastructure.pdb
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\bin\Debug\net7.0\MongoSample.Domain.dll
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\bin\Debug\net7.0\MongoSample.Domain.pdb
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\obj\Debug\net7.0\MongoSample.Infrastructure.csproj.AssemblyReference.cache
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\obj\Debug\net7.0\MongoSample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\obj\Debug\net7.0\MongoSample.Infrastructure.AssemblyInfoInputs.cache
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\obj\Debug\net7.0\MongoSample.Infrastructure.AssemblyInfo.cs
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\obj\Debug\net7.0\MongoSample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\obj\Debug\net7.0\MongoSample.Infrastructure.csproj.CopyComplete
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\obj\Debug\net7.0\MongoSample.Infrastructure.dll
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\obj\Debug\net7.0\refint\MongoSample.Infrastructure.dll
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\obj\Debug\net7.0\MongoSample.Infrastructure.pdb
+C:\Randika\Playground\Other\MongoSample\MongoSample.Infrastructure\obj\Debug\net7.0\ref\MongoSample.Infrastructure.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tsg+ClVNRhTIoIPa5RCFnt16sedihGLvz3EjUopPWRe+5CB4RJ8SaNgLdzgPc14uigApUgQNi+YFimsZZO9y3g==",
+  "success": true,
+  "projectFilePath": "C:\\Randika\\Playground\\Other\\MongoSample\\MongoSample.Domain\\MongoSample.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rhasheen\\.nuget\\packages\\mongodb.bson\\3.0.0\\mongodb.bson.3.0.0.nupkg.sha512",
+    "C:\\Users\\rhasheen\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\rhasheen\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

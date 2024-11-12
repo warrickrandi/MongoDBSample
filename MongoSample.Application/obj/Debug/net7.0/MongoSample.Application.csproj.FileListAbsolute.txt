@@ -1,0 +1,15 @@
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\bin\Debug\net7.0\MongoSample.Application.deps.json
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\bin\Debug\net7.0\MongoSample.Application.dll
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\bin\Debug\net7.0\MongoSample.Application.pdb
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\bin\Debug\net7.0\MongoSample.Domain.dll
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\bin\Debug\net7.0\MongoSample.Domain.pdb
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\obj\Debug\net7.0\MongoSample.Application.csproj.AssemblyReference.cache
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\obj\Debug\net7.0\MongoSample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\obj\Debug\net7.0\MongoSample.Application.AssemblyInfoInputs.cache
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\obj\Debug\net7.0\MongoSample.Application.AssemblyInfo.cs
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\obj\Debug\net7.0\MongoSample.Application.csproj.CoreCompileInputs.cache
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\obj\Debug\net7.0\MongoSample.Application.csproj.CopyComplete
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\obj\Debug\net7.0\MongoSample.Application.dll
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\obj\Debug\net7.0\refint\MongoSample.Application.dll
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\obj\Debug\net7.0\MongoSample.Application.pdb
+C:\Randika\Playground\Other\MongoSample\MongoSample.Application\obj\Debug\net7.0\ref\MongoSample.Application.dll

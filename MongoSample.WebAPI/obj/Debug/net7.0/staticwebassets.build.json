@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NVauTzOzl2iC5R1I6hRO9nMMLV0gVBaHsNGpRIAkTrs=",
+  "Source": "MongoSample.WebAPI",
+  "BasePath": "_content/MongoSample.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
